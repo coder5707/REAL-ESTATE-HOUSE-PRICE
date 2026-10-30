@@ -1,4 +1,4 @@
-# Real Estate Market Analysis & Investment Evaluator
+# Real Estate Market Analysis 
 
 Welcome to the **Real Estate Market Analysis** repository! This project is a comprehensive toolkit and data-driven framework designed to evaluate residential and commercial real estate properties, analyze market trends, and calculate key investment metrics.
 
